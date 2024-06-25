@@ -1,6 +1,6 @@
 # Simple AWS Lambda Handler written in Java 17
 
-When activivated by the Lambda function.  It will upper case the given string and will then writes the original given parameter values and the Java version to the Log file.
+When activivated by the Lambda function.  It will upper case the given string and will then writes the original given parameter value and the Java version to the Log file.
 
 ## Build
 `mvn clean package`
