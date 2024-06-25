@@ -11,4 +11,6 @@ Create a Java 17 Lambda function and upload this JAR file, then set the `Handler
 
 ## Test
 
-Specify a string in the `Event Json` section of the `Test` tab of the  lambda function, and press `Test`.  You should the given string converted to Uppercase.  And the Log entry.
+Specify a string in the `Event Json` section of the `Test` tab of the  lambda function, and press `Test`.  
+
+You should see the given string converted to Uppercase.  And the Log entry.
